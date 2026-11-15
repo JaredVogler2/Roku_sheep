@@ -1,0 +1,8 @@
+{
+  "rootDir": ".",
+  "files": ["manifest", "source/**/*.brs"],
+  "createPackage": false,
+  "copyToStaging": false,
+  "emitFullPaths": false,
+  "diagnosticFilters": []
+}

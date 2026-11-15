@@ -1,0 +1,20 @@
+title=SHEEPFALL
+subtitle=Tiny sheep. Unstoppable hooves. 120 stages to bring them home.
+major_version=1
+minor_version=0
+build_version=1
+
+mm_icon_focus_fhd=pkg:/images/icon-focus-fhd.png
+mm_icon_focus_hd=pkg:/images/icon-focus-hd.png
+
+splash_screen_fhd=pkg:/images/splash-fhd.jpg
+splash_screen_hd=pkg:/images/splash-hd.jpg
+splash_screen_sd=pkg:/images/splash-sd.jpg
+splash_color=#21392b
+splash_min_time=0
+
+ui_resolutions=hd
+game=1
+network_not_required=1
+supports_input_launch=1
+rsg_version=1.3

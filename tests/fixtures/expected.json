@@ -1,0 +1,1292 @@
+{
+ "cave-01": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 12,
+  "lost": 0,
+  "endTick": 1902,
+  "stateHash": "a94996a27676ab45",
+  "geometryHash": "08c6791860c793d39c390dfe96491105b62c7a8cd8fe951167439ca98b955b87",
+  "inputs": 1
+ },
+ "cave-02": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 14,
+  "lost": 0,
+  "endTick": 2204,
+  "stateHash": "fe7c91be71bb7df4",
+  "geometryHash": "0782a4f122a491ec1090152ce163ba40a28cb913849d28b587658a00356db7e5",
+  "inputs": 1
+ },
+ "cave-03": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 14,
+  "lost": 0,
+  "endTick": 2363,
+  "stateHash": "f6017366b8936317",
+  "geometryHash": "181d6b8bb5b61b4c83abe91648b5f3f826c5c5c337f49a4ccbd71423e5c23b6f",
+  "inputs": 3
+ },
+ "cave-04": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 15,
+  "lost": 0,
+  "endTick": 2004,
+  "stateHash": "10d81c2c30d9f84e",
+  "geometryHash": "05cd27b84bc829628fc43e32c69a01db0dbbff989cdc3fe22bc612bbba25bbff",
+  "inputs": 2
+ },
+ "cave-05": {
+  "phase": "won",
+  "reason": "only-blockers-left",
+  "saved": 17,
+  "lost": 0,
+  "endTick": 1493,
+  "stateHash": "18dca72170ae453b",
+  "geometryHash": "ad96b7f7b66c601cafaea2bfb6c108e551d05a699b7a5912f78aabbb818ed3c5",
+  "inputs": 2
+ },
+ "cave-06": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 15,
+  "lost": 0,
+  "endTick": 2771,
+  "stateHash": "9a4d1cf2c6677b36",
+  "geometryHash": "1690cf339bf5aa37d9fac3ff9c552e813084d30ac041985bb74e1368f230bc2a",
+  "inputs": 2
+ },
+ "cave-07": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 15,
+  "lost": 0,
+  "endTick": 1437,
+  "stateHash": "1422bff9bc7e9f59",
+  "geometryHash": "932d74000ec4f6ef02fb00123bf93e934f8e22760a12e078ea72f9f3ce92a55a",
+  "inputs": 3
+ },
+ "cave-08": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 12,
+  "lost": 0,
+  "endTick": 1841,
+  "stateHash": "3e5f9581731c5ad3",
+  "geometryHash": "56ab4012e16a97d795f94818bc43adca2683fbea0f8a4d0fd4c4be56a1894baa",
+  "inputs": 3
+ },
+ "cave-09": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 14,
+  "lost": 2,
+  "endTick": 678,
+  "stateHash": "7008f8b596eea0f0",
+  "geometryHash": "628f80dfff1b60006fdc594db75fe1c08b7ac8bec5769ef0747ddb4fce8dd18f",
+  "inputs": 9
+ },
+ "cave-10": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 16,
+  "lost": 0,
+  "endTick": 2203,
+  "stateHash": "5dcd31bc01150fe2",
+  "geometryHash": "3b00ccbbfc0d476da000aecc98736682f3711d3c5133469e7ee6d8d9594fbeab",
+  "inputs": 2
+ },
+ "cave-11": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 20,
+  "lost": 0,
+  "endTick": 2011,
+  "stateHash": "0df74239dbd3d908",
+  "geometryHash": "835d150ad6900cc88bc06efbfd78a794ba2e036ee18b1ab91b2e667ba2998457",
+  "inputs": 3
+ },
+ "cave-12": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 15,
+  "lost": 1,
+  "endTick": 1972,
+  "stateHash": "a3381dc013c2feb2",
+  "geometryHash": "2e63f64ad0efffe9b2a03da35c5fb9858d56ba57022201208d7bce4d76f45d32",
+  "inputs": 5
+ },
+ "cave-13": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 30,
+  "lost": 0,
+  "endTick": 2598,
+  "stateHash": "e383929da1364d36",
+  "geometryHash": "4307de04320923ff8504b2931b84db05e5ab4149b9fa76bf23525e1004cbee33",
+  "inputs": 2
+ },
+ "cave-14": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 15,
+  "lost": 0,
+  "endTick": 2303,
+  "stateHash": "eb0f18099cd6fd21",
+  "geometryHash": "ef184aeaedbf16f009f3350bea73e0dc1b2bf35f5cd8adfa139e3ad30395d23d",
+  "inputs": 2
+ },
+ "cave-15": {
+  "phase": "won",
+  "reason": "only-blockers-left",
+  "saved": 12,
+  "lost": 1,
+  "endTick": 1659,
+  "stateHash": "81146fe35837e502",
+  "geometryHash": "8e626331e3da17ce245645ad65275056b3e2491479eed2bd31609a1a5f046d63",
+  "inputs": 3
+ },
+ "cave-16": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 14,
+  "lost": 1,
+  "endTick": 934,
+  "stateHash": "d788627131877969",
+  "geometryHash": "e85c62967eba84b65bebfa71aab74ce278bd1241d5d452efabeb0f32adfc84ae",
+  "inputs": 2
+ },
+ "cave-17": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 16,
+  "lost": 0,
+  "endTick": 1159,
+  "stateHash": "6a1de56a7a201827",
+  "geometryHash": "187360372eccfabf67cac26b320f09247718853484d80049c80309b2eb57fbf1",
+  "inputs": 2
+ },
+ "cave-18": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 18,
+  "lost": 0,
+  "endTick": 1883,
+  "stateHash": "d2c2cefe3e0aa942",
+  "geometryHash": "391baa25751829f71a19abe42eb1e5a5789cbe9a214acbb690ccc0172709c83b",
+  "inputs": 3
+ },
+ "cave-19": {
+  "phase": "won",
+  "reason": "only-blockers-left",
+  "saved": 23,
+  "lost": 0,
+  "endTick": 2282,
+  "stateHash": "ccccae956265fd70",
+  "geometryHash": "8e11a6b08e3885453675adf67f9fb87f63827a23fdf574261ce764ab90847497",
+  "inputs": 5
+ },
+ "cave-20": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 15,
+  "lost": 0,
+  "endTick": 2172,
+  "stateHash": "192df718c456bd84",
+  "geometryHash": "65d535147adbaf127e9a8d6d5d089e90741177798b4d45a80e3cee83291b219a",
+  "inputs": 3
+ },
+ "cave-21": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 14,
+  "lost": 0,
+  "endTick": 1448,
+  "stateHash": "f9f1f7e60a852567",
+  "geometryHash": "87b527c09d959559635073c8747537a4c47927535bfcc8f2d7749bd47e117a81",
+  "inputs": 5
+ },
+ "cave-22": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 16,
+  "lost": 0,
+  "endTick": 1510,
+  "stateHash": "e36e3c5ad3d4512f",
+  "geometryHash": "23e91398bb6b8548e1d24018f8b47c13e3926691cacdb30e4f8e39eeaa0483b2",
+  "inputs": 2
+ },
+ "cave-23": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 20,
+  "lost": 0,
+  "endTick": 1766,
+  "stateHash": "ed567c3f76ce3e77",
+  "geometryHash": "b3b528b8749852077012b20be3a6fb6961e8f2d278a48cc9d66b015bbc3a4546",
+  "inputs": 2
+ },
+ "cave-24": {
+  "phase": "won",
+  "reason": "only-blockers-left",
+  "saved": 29,
+  "lost": 0,
+  "endTick": 811,
+  "stateHash": "16e8bcec594ee04c",
+  "geometryHash": "c848cbe8712a0f0bb5bdef6515a06f2476f0af76a0f2fbfdc24a5460c4dfa313",
+  "inputs": 2
+ },
+ "cave-25": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 20,
+  "lost": 0,
+  "endTick": 3061,
+  "stateHash": "03df4bbbe91e4a51",
+  "geometryHash": "7296ae27ab008a106ab2e6f95e609f40ecd1b79bec5ef39399341813f800bd1a",
+  "inputs": 6
+ },
+ "cave-26": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 20,
+  "lost": 0,
+  "endTick": 1853,
+  "stateHash": "4d925ced5292f576",
+  "geometryHash": "317499c4c724160bab1db6cf0edfedb947ca6ba276231f12c90a6b2dcbc7c0c0",
+  "inputs": 5
+ },
+ "cave-27": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 20,
+  "lost": 0,
+  "endTick": 2487,
+  "stateHash": "a105dc056698618b",
+  "geometryHash": "92dafd6e147cec7239c653b0f7e2e8964998f38e15983701ff234406ef902812",
+  "inputs": 5
+ },
+ "cave-28": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 16,
+  "lost": 0,
+  "endTick": 1390,
+  "stateHash": "6d3679e8dd72878b",
+  "geometryHash": "e86de0b9d64b09e087e5e14bbec7dccb81598ab1e2199ae9c191b8644f6df78b",
+  "inputs": 2
+ },
+ "cave-29": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 20,
+  "lost": 0,
+  "endTick": 2424,
+  "stateHash": "60db1c9753e2031e",
+  "geometryHash": "3d4e7f54838c4880c8a728865c8e66508bff178d2d0306c47c53056e2d67bdd6",
+  "inputs": 3
+ },
+ "cave-30": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 23,
+  "lost": 1,
+  "endTick": 1711,
+  "stateHash": "f687bbc2ae67a0e5",
+  "geometryHash": "1f31449a4477b1532c38dce1494c6fe231925e9bd98dc3ddf3f0f18d7737d8e9",
+  "inputs": 7
+ },
+ "hill-01": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 15,
+  "lost": 0,
+  "endTick": 2449,
+  "stateHash": "19e4627d5c39f96c",
+  "geometryHash": "09cd792a0e4c6d2424441eafb86cbd5433109712a7909d0339023760cceee265",
+  "inputs": 2
+ },
+ "hill-02": {
+  "phase": "won",
+  "reason": "only-blockers-left",
+  "saved": 18,
+  "lost": 0,
+  "endTick": 653,
+  "stateHash": "dab1ddc1b4f64b4d",
+  "geometryHash": "6a0b2b7b5a3c4394afefbb3bf8eb2bae6e50cd2e10238d5f1388e161590c0cbd",
+  "inputs": 2
+ },
+ "hill-03": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 10,
+  "lost": 2,
+  "endTick": 1140,
+  "stateHash": "e32efa71976a20fd",
+  "geometryHash": "054b031376260eef1fa1e3af9cd460b9b688737a21e30506a11c05bbf312fe34",
+  "inputs": 2
+ },
+ "hill-04": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 16,
+  "lost": 0,
+  "endTick": 1618,
+  "stateHash": "001d9187a64b11c2",
+  "geometryHash": "11bfae7f9e46ea9021faf0dfc111fd04f69e67019a0ccb8ef260e9f2517b5edb",
+  "inputs": 3
+ },
+ "hill-05": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 13,
+  "lost": 1,
+  "endTick": 1616,
+  "stateHash": "caaeb2c06aaa32a3",
+  "geometryHash": "37d2d37d0b3180ad779d7f54ec17c54900810a1e5367f2ebc61840c8ba8e1fcc",
+  "inputs": 2
+ },
+ "hill-06": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 15,
+  "lost": 0,
+  "endTick": 2036,
+  "stateHash": "99c65d763d4f8c95",
+  "geometryHash": "7f8395f3eff28db045077dea3f5bd5003837e1cbf88f23f4bd62c37247c26f1c",
+  "inputs": 1
+ },
+ "hill-07": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 16,
+  "lost": 0,
+  "endTick": 1384,
+  "stateHash": "f3c157424a3db371",
+  "geometryHash": "734a910be0ffe688e70c1ebf36a79702ea66d4c1095ae00c5dd5cfa2a7190aaa",
+  "inputs": 2
+ },
+ "hill-08": {
+  "phase": "won",
+  "reason": "only-blockers-left",
+  "saved": 26,
+  "lost": 0,
+  "endTick": 1864,
+  "stateHash": "ba84be94f740ec58",
+  "geometryHash": "422f461c01717c7de96e5e34d71d7d1d3b7ef0de628f16da6e79c6597e4879db",
+  "inputs": 2
+ },
+ "hill-09": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 20,
+  "lost": 0,
+  "endTick": 1982,
+  "stateHash": "9fc98a6bbbb84680",
+  "geometryHash": "badfd761c9defa93a6aa09df8766c717f3fac05aedcec071717d234679dbd1c4",
+  "inputs": 2
+ },
+ "hill-10": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 40,
+  "lost": 0,
+  "endTick": 3537,
+  "stateHash": "6b8b8fd0f7c3a7af",
+  "geometryHash": "f3f0d3f2d8c9dd683c19d05769089d24c11a2a7a9e826539d20a5845b4621753",
+  "inputs": 1
+ },
+ "hill-11": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 19,
+  "lost": 1,
+  "endTick": 963,
+  "stateHash": "275d83c2fc227a67",
+  "geometryHash": "26e346c78b5d897bf15f90d9ffaafdec0f299fd23940217dcb8f930a02b71b00",
+  "inputs": 2
+ },
+ "hill-12": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 16,
+  "lost": 0,
+  "endTick": 1520,
+  "stateHash": "803a382e55eaa024",
+  "geometryHash": "4c58b96a69b369781af73a2ed097bd2d6d2f4694daade5e9152ac2081d41c4fb",
+  "inputs": 2
+ },
+ "hill-13": {
+  "phase": "won",
+  "reason": "only-blockers-left",
+  "saved": 19,
+  "lost": 0,
+  "endTick": 257,
+  "stateHash": "7780b92e5b56fce7",
+  "geometryHash": "55344d419e9c45a858df3b3074ce5f04003bc272278676987f858cd69bd2ae37",
+  "inputs": 2
+ },
+ "hill-14": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 19,
+  "lost": 1,
+  "endTick": 2033,
+  "stateHash": "a28293a1d7d6dc59",
+  "geometryHash": "e0956d1c3adad3693540dbe417b79185df4caffd6626d3b691b73fdaad829b3f",
+  "inputs": 1
+ },
+ "hill-15": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 14,
+  "lost": 0,
+  "endTick": 1025,
+  "stateHash": "d13e55b98cecdd5a",
+  "geometryHash": "3080eedbce6a2cb242f64fe64c715c4df65d0938ab964751ffc257918c624027",
+  "inputs": 5
+ },
+ "hill-16": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 20,
+  "lost": 0,
+  "endTick": 1087,
+  "stateHash": "35ee9034c22d1401",
+  "geometryHash": "9ac6a2988d861ee7140234162ed6452dac8070fa3c331b9cd19ce5825bf504a4",
+  "inputs": 3
+ },
+ "hill-17": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 13,
+  "lost": 2,
+  "endTick": 1787,
+  "stateHash": "fe8eed45ff5917ae",
+  "geometryHash": "70aad814357075b844d80a7800b0f893a5bad4b04777d41a2bc4d5eb8e35aa8e",
+  "inputs": 3
+ },
+ "hill-18": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 20,
+  "lost": 0,
+  "endTick": 2114,
+  "stateHash": "cd6511c53eb253dc",
+  "geometryHash": "99cc71e8e69b695aee93ab6d741a13dcccf6a5c3e1ebdd822fb8907709ba1f93",
+  "inputs": 2
+ },
+ "hill-19": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 18,
+  "lost": 0,
+  "endTick": 2029,
+  "stateHash": "3e4163fbd8246528",
+  "geometryHash": "55493be89e6fedd3595e822e95da90256ef91d829751c9de2be4a1f1f47296a5",
+  "inputs": 2
+ },
+ "hill-20": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 19,
+  "lost": 1,
+  "endTick": 2915,
+  "stateHash": "efa7f9777885fc08",
+  "geometryHash": "93e34d1af2cf6ca4a0cbf9006425f5ae7a6b3feef992c7ec2a728bc98ef1fde8",
+  "inputs": 3
+ },
+ "hill-21": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 19,
+  "lost": 1,
+  "endTick": 1383,
+  "stateHash": "585725e68ba15ba3",
+  "geometryHash": "f4375b133161136d6f308f4762fc4154ef55e5acc30b51176449ff48bae1a0c5",
+  "inputs": 3
+ },
+ "hill-22": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 15,
+  "lost": 0,
+  "endTick": 1693,
+  "stateHash": "3df753cd7a3eb987",
+  "geometryHash": "06b0f93669c664eaf8c7d577e5ab328cea65f2bf934c968616484349e210bad0",
+  "inputs": 5
+ },
+ "hill-23": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 15,
+  "lost": 0,
+  "endTick": 760,
+  "stateHash": "5f994a472203cdcd",
+  "geometryHash": "1bed020e5b2738fcc4e0000da015c3e42d76b112dc2b06cdc05738e2ef8d7d2d",
+  "inputs": 1
+ },
+ "hill-24": {
+  "phase": "won",
+  "reason": "only-blockers-left",
+  "saved": 58,
+  "lost": 0,
+  "endTick": 2633,
+  "stateHash": "325a7520ad9d9408",
+  "geometryHash": "4531ee9df6d3cac30ac23d5deafc5272ff84a9e3e80e6b824fc7a00f3a2ff934",
+  "inputs": 5
+ },
+ "hill-25": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 10,
+  "lost": 0,
+  "endTick": 2148,
+  "stateHash": "6f13c3b6a57d610c",
+  "geometryHash": "f27a0ddc5a1a99c61d1e45176cf01f1683aff079f30f1eb862dd68860a074e0f",
+  "inputs": 11
+ },
+ "hill-26": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 20,
+  "lost": 0,
+  "endTick": 1556,
+  "stateHash": "457fd53caa139fbe",
+  "geometryHash": "7501f1b6ee2486ad57b7c5e584d0d4efc1a90e5101b324cba936a6b565e4dbb0",
+  "inputs": 5
+ },
+ "hill-27": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 20,
+  "lost": 0,
+  "endTick": 1839,
+  "stateHash": "fca0507173fb9200",
+  "geometryHash": "4c27c115980c7dbb0370906028b547e2b8f026d24c09f4277c52e2eae089ee16",
+  "inputs": 3
+ },
+ "hill-28": {
+  "phase": "won",
+  "reason": "only-blockers-left",
+  "saved": 19,
+  "lost": 0,
+  "endTick": 1769,
+  "stateHash": "9305f77b0f58b252",
+  "geometryHash": "881ec5d21a2e556286d37eec983c2b4c92c9c679846239de7944d6637022227d",
+  "inputs": 2
+ },
+ "hill-29": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 18,
+  "lost": 2,
+  "endTick": 2946,
+  "stateHash": "8727988cf623e473",
+  "geometryHash": "c4bd7d05cf92d716e618031b23f03277fd9db468edd59c017e853fb48ab262ff",
+  "inputs": 3
+ },
+ "hill-30": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 33,
+  "lost": 3,
+  "endTick": 2496,
+  "stateHash": "4faaa8944be1d1dd",
+  "geometryHash": "c8094f6e1431426a4bec2ebd12f6f51ca8f0a61aa253dea14dc6ed9e8177e6a7",
+  "inputs": 5
+ },
+ "meadow-01": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 10,
+  "lost": 0,
+  "endTick": 940,
+  "stateHash": "266229d2cd5fa44e",
+  "geometryHash": "760182739de2f50b2d2f98d5ed127895ab31df7d5ef3ead5629a354f25bcc300",
+  "inputs": 0
+ },
+ "meadow-02": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 10,
+  "lost": 0,
+  "endTick": 1527,
+  "stateHash": "88d1ec8de17cb79f",
+  "geometryHash": "5031f847afc9df2ba25604dc79791b72566335247fe8e0f327afbdda0bbca850",
+  "inputs": 1
+ },
+ "meadow-03": {
+  "phase": "won",
+  "reason": "only-blockers-left",
+  "saved": 9,
+  "lost": 0,
+  "endTick": 1041,
+  "stateHash": "c80861a42cec9a08",
+  "geometryHash": "1e483501f2d48cb6c0913db218235b65e43de6f1d4167fbbd433c7adcbea1812",
+  "inputs": 1
+ },
+ "meadow-04": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 8,
+  "lost": 0,
+  "endTick": 1203,
+  "stateHash": "2e5786cf29718a26",
+  "geometryHash": "119db08ff01589ad1429fa8e7c90bd5bcf1d8ccd7bf76220549d4690e2648e02",
+  "inputs": 8
+ },
+ "meadow-05": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 10,
+  "lost": 0,
+  "endTick": 1167,
+  "stateHash": "7eafebe8ac4f7299",
+  "geometryHash": "929f286fb68fc1310c21d64103828bafa73cf06570aa30c8a78d5e06384aa79e",
+  "inputs": 1
+ },
+ "meadow-06": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 10,
+  "lost": 0,
+  "endTick": 1800,
+  "stateHash": "c2c593df67af8a17",
+  "geometryHash": "d5042705ddf959d1b4bfb20069cb7d03eb4abd4973118c92ec2ef7124e4d0f73",
+  "inputs": 1
+ },
+ "meadow-07": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 9,
+  "lost": 1,
+  "endTick": 1851,
+  "stateHash": "3de76dd8231afab1",
+  "geometryHash": "3a6954e357291fde570c946d308c0e763c1921bdc6b2ae876fae846e4619faa5",
+  "inputs": 1
+ },
+ "meadow-08": {
+  "phase": "won",
+  "reason": "finished-early",
+  "saved": 5,
+  "lost": 0,
+  "endTick": 885,
+  "stateHash": "b1189af58e846ca0",
+  "geometryHash": "eb272805719d5e20c7a06027cb13ed1c9e3e867ceed3a5749af563f9c7c0b8e4",
+  "inputs": 7
+ },
+ "meadow-09": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 10,
+  "lost": 0,
+  "endTick": 587,
+  "stateHash": "f8ef113974fde54b",
+  "geometryHash": "54a221cb908dca249bcf767c0d3324604cd225f2313c6940547f3d1ee6f374dc",
+  "inputs": 1
+ },
+ "meadow-10": {
+  "phase": "won",
+  "reason": "only-blockers-left",
+  "saved": 9,
+  "lost": 0,
+  "endTick": 773,
+  "stateHash": "14f0c6e32abc4afe",
+  "geometryHash": "617f65c68d6c7557b360e2acdb0e60811ea1d363701a7e4c6ed5951c21489b0e",
+  "inputs": 1
+ },
+ "meadow-11": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 8,
+  "lost": 4,
+  "endTick": 1314,
+  "stateHash": "225baf094835df59",
+  "geometryHash": "c22977210135aa13badb1913337224286a3f9671feb25902f2b056d2ee95cbbd",
+  "inputs": 2
+ },
+ "meadow-12": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 12,
+  "lost": 0,
+  "endTick": 865,
+  "stateHash": "f2001a7da329c943",
+  "geometryHash": "170697b3386cbc041266b17e5d4bba936c5b1985b66b0d247751c8099ec7ea57",
+  "inputs": 6
+ },
+ "meadow-13": {
+  "phase": "won",
+  "reason": "only-blockers-left",
+  "saved": 11,
+  "lost": 0,
+  "endTick": 947,
+  "stateHash": "ef16ec2e19e81355",
+  "geometryHash": "5836c5c5ee3b6bb21a36e765e5c90d5bdd9189239a327e0a967d2a40857e301e",
+  "inputs": 1
+ },
+ "meadow-14": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 9,
+  "lost": 1,
+  "endTick": 1814,
+  "stateHash": "b19d6c452f6a824a",
+  "geometryHash": "fe20f1321e7b84973d3e5a22a8a4e27326b1e997b9ceac1947c071bf838e3d68",
+  "inputs": 1
+ },
+ "meadow-15": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 8,
+  "lost": 2,
+  "endTick": 1655,
+  "stateHash": "564b3bd6f0f232c9",
+  "geometryHash": "547db265e906048be147f624729470d865e193c82aeb5288f6cab5f4accc2439",
+  "inputs": 2
+ },
+ "meadow-16": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 8,
+  "lost": 4,
+  "endTick": 1034,
+  "stateHash": "71c3e18b380e1025",
+  "geometryHash": "82dd649a116ddd601a4453b18651ffd7590aa907ced77879e37a7389053904a5",
+  "inputs": 8
+ },
+ "meadow-17": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 10,
+  "lost": 0,
+  "endTick": 1880,
+  "stateHash": "1b4689b0e69d8024",
+  "geometryHash": "2800ed5c515c941d8ae4d0bc9fc15918adcc13a21812d804c171a322a40cebaf",
+  "inputs": 2
+ },
+ "meadow-18": {
+  "phase": "won",
+  "reason": "finished-early",
+  "saved": 5,
+  "lost": 0,
+  "endTick": 1022,
+  "stateHash": "7063d0687e692e66",
+  "geometryHash": "655709c03c79078e17450fd629cfab66b419f14cde98766144a6e903a09df90e",
+  "inputs": 13
+ },
+ "meadow-19": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 11,
+  "lost": 1,
+  "endTick": 1497,
+  "stateHash": "773aea4f1334906e",
+  "geometryHash": "023605003a055d046f5dd4d4a1a8bf69f57ca1fbf7638019bd78bf9862aa5ac5",
+  "inputs": 3
+ },
+ "meadow-20": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 10,
+  "lost": 0,
+  "endTick": 1988,
+  "stateHash": "27e79e2e6ee700cc",
+  "geometryHash": "a8da1eb8fc71a54c65f647266636f2b31561435b829b7a0fc461745703232d0f",
+  "inputs": 1
+ },
+ "meadow-21": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 9,
+  "lost": 1,
+  "endTick": 1417,
+  "stateHash": "bef6b654c651980f",
+  "geometryHash": "e25e2afec07e2012ee6ac6316543055453167d4e37ee1ee03eae42de0096cdee",
+  "inputs": 2
+ },
+ "meadow-22": {
+  "phase": "won",
+  "reason": "only-blockers-left",
+  "saved": 19,
+  "lost": 0,
+  "endTick": 1466,
+  "stateHash": "5e072a3cf88f5906",
+  "geometryHash": "55344d419e9c45a858df3b3074ce5f04003bc272278676987f858cd69bd2ae37",
+  "inputs": 1
+ },
+ "meadow-23": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 9,
+  "lost": 1,
+  "endTick": 2256,
+  "stateHash": "e211ab8f0babb312",
+  "geometryHash": "f67fa22604722299d1399521a244960157345df3807b18cca5d85f9040c31303",
+  "inputs": 2
+ },
+ "meadow-24": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 10,
+  "lost": 0,
+  "endTick": 1466,
+  "stateHash": "f555baca8ea6225a",
+  "geometryHash": "c52fea79e12fae15b90e64f162fcae1597f904f11bc6612de3bf42a004bdf37d",
+  "inputs": 1
+ },
+ "meadow-25": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 36,
+  "lost": 4,
+  "endTick": 2480,
+  "stateHash": "df7e8d6aeb9ce2e6",
+  "geometryHash": "9b09bd1ee24bf9af6291836102a65a55f04031c4d6436acbf3d13f8d193a5e14",
+  "inputs": 3
+ },
+ "meadow-26": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 12,
+  "lost": 0,
+  "endTick": 3808,
+  "stateHash": "41776a62e590e468",
+  "geometryHash": "ce1c76cc230046c60860264dec5155e6a06198279d9c087486305b9b5585f890",
+  "inputs": 2
+ },
+ "meadow-27": {
+  "phase": "won",
+  "reason": "finished-early",
+  "saved": 14,
+  "lost": 0,
+  "endTick": 2170,
+  "stateHash": "095ec637b5cb3d74",
+  "geometryHash": "f625b276af57f17c8403c6d55048f1d4d764dd1c44b74386e2ae203f4e564c8a",
+  "inputs": 2
+ },
+ "meadow-28": {
+  "phase": "won",
+  "reason": "only-blockers-left",
+  "saved": 8,
+  "lost": 1,
+  "endTick": 583,
+  "stateHash": "7b2ac4419c5956fc",
+  "geometryHash": "a8deef29f10cff58d20eeddfe1c0533da79ab6702a5d01ebab1b8003e4255702",
+  "inputs": 2
+ },
+ "meadow-29": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 6,
+  "lost": 0,
+  "endTick": 3122,
+  "stateHash": "e18d9ac98be1759d",
+  "geometryHash": "999c769643d0bfdc86f3ce6e82007d9f57363da18ad31b4d67275c69a33245bc",
+  "inputs": 13
+ },
+ "meadow-30": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 29,
+  "lost": 1,
+  "endTick": 3086,
+  "stateHash": "4f4a784ff2b4cd62",
+  "geometryHash": "4e676b6a53098a6850595f00fe1a9b49ce6b2927e6055b35fb1c5eac99adfa5c",
+  "inputs": 5
+ },
+ "storm-01": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 12,
+  "lost": 2,
+  "endTick": 1463,
+  "stateHash": "43f332963351a9b0",
+  "geometryHash": "2440642479a48d0a68b7d35f0ce1954000780dc6e132a37f91a044f9d5a56c2c",
+  "inputs": 6
+ },
+ "storm-02": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 15,
+  "lost": 1,
+  "endTick": 2436,
+  "stateHash": "4b4f3f88fa354efa",
+  "geometryHash": "65307ae0b68fd5a8121f39f509adb889bccb726c893dfad48143b9a084a7f7f0",
+  "inputs": 4
+ },
+ "storm-03": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 15,
+  "lost": 0,
+  "endTick": 2390,
+  "stateHash": "8676ef929a5f865e",
+  "geometryHash": "409530f0920bd34bd1a2f1106fc067d3ce6195f7069671b89dbbe2975710b50e",
+  "inputs": 3
+ },
+ "storm-04": {
+  "phase": "won",
+  "reason": "only-blockers-left",
+  "saved": 7,
+  "lost": 0,
+  "endTick": 577,
+  "stateHash": "d6c92fc4ea82cb7a",
+  "geometryHash": "da6078c055cf1f4feea1cb395aca40a0ae8dae8126d9b547749a8dfbad725d8f",
+  "inputs": 2
+ },
+ "storm-05": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 16,
+  "lost": 0,
+  "endTick": 2233,
+  "stateHash": "04b2a77748de761d",
+  "geometryHash": "e8566577629ea59204db81ba8c4988e6718496cf328658c8c9ef42d49b1cea9b",
+  "inputs": 3
+ },
+ "storm-06": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 14,
+  "lost": 0,
+  "endTick": 1637,
+  "stateHash": "b757fc0637f387b4",
+  "geometryHash": "b6140b3c26b9551caed81709f0478ecb14cef6a84aff978029a0cf524b96bd1c",
+  "inputs": 3
+ },
+ "storm-07": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 20,
+  "lost": 0,
+  "endTick": 2529,
+  "stateHash": "62cba2857b426843",
+  "geometryHash": "e13ba17c12af81358ed65a03848fd50b9188c47e283abdc99561589ebde3627c",
+  "inputs": 7
+ },
+ "storm-08": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 14,
+  "lost": 0,
+  "endTick": 2424,
+  "stateHash": "6ec143f455bf4a0d",
+  "geometryHash": "cda792462b8c82f67fb29126ea234c3378010614757c5cf1cd44ac8287d79375",
+  "inputs": 2
+ },
+ "storm-09": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 15,
+  "lost": 0,
+  "endTick": 2396,
+  "stateHash": "31a245dcda449fe3",
+  "geometryHash": "9bbebdf6c5fed009439e7b81f53fdafec699c8a1bafb24b1db2a88a2845f32cd",
+  "inputs": 3
+ },
+ "storm-10": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 14,
+  "lost": 1,
+  "endTick": 1355,
+  "stateHash": "c1738e2f906402cd",
+  "geometryHash": "d7fce8cad86b95ef178ef642a6d61db9456091aef67fabd6e50968663d4fdf89",
+  "inputs": 6
+ },
+ "storm-11": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 14,
+  "lost": 0,
+  "endTick": 1636,
+  "stateHash": "dd87b0bc53003474",
+  "geometryHash": "d383b9e9c565f4b99c5a7c51340ed1fb1a6f0a45c9d19559cc322627e6b75f9d",
+  "inputs": 5
+ },
+ "storm-12": {
+  "phase": "won",
+  "reason": "only-blockers-left",
+  "saved": 22,
+  "lost": 0,
+  "endTick": 1702,
+  "stateHash": "8966193b9ca132dc",
+  "geometryHash": "29550b061a637b08b8c75f81cc60fad82c463159ed52449651b0636bc1b1855c",
+  "inputs": 4
+ },
+ "storm-13": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 14,
+  "lost": 0,
+  "endTick": 1498,
+  "stateHash": "8e97239ba086942c",
+  "geometryHash": "3b20f8ec49012bb16bc0ad2c9d784e70384de57ee5953ed36aad4d983650238c",
+  "inputs": 2
+ },
+ "storm-14": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 14,
+  "lost": 0,
+  "endTick": 2975,
+  "stateHash": "865e714ce52f695d",
+  "geometryHash": "d7a48b51abf28b58dde3a5c4f358ec7baabda76e9e8e0090317b55f231b65ec9",
+  "inputs": 4
+ },
+ "storm-15": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 20,
+  "lost": 0,
+  "endTick": 3223,
+  "stateHash": "95e4eb460cc5d835",
+  "geometryHash": "22c708f72031406d9924599c51d98a93eccaf65ec4b87bb2a6ed80f268c9c1f4",
+  "inputs": 3
+ },
+ "storm-16": {
+  "phase": "won",
+  "reason": "only-blockers-left",
+  "saved": 15,
+  "lost": 0,
+  "endTick": 1486,
+  "stateHash": "c8ef542dacd5c04b",
+  "geometryHash": "a685b7565baee55c9faa283641d0c638281b3b878d1a59d59c8bd19bface1d70",
+  "inputs": 12
+ },
+ "storm-17": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 40,
+  "lost": 0,
+  "endTick": 2619,
+  "stateHash": "4057c0b699a3298b",
+  "geometryHash": "f8559495c6a415a524f6da42fb75b865017d9498466df82f22287bf9bbc6e06d",
+  "inputs": 3
+ },
+ "storm-18": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 16,
+  "lost": 0,
+  "endTick": 1901,
+  "stateHash": "c53bc3c9dd58cb08",
+  "geometryHash": "bd39de5a7b6f3b1bcaec42fbf1bc476fcccead62230da5fc216e73fd77c1cf04",
+  "inputs": 4
+ },
+ "storm-19": {
+  "phase": "won",
+  "reason": "only-blockers-left",
+  "saved": 98,
+  "lost": 1,
+  "endTick": 2639,
+  "stateHash": "4109b6fac3b0d422",
+  "geometryHash": "55a88c561ec7edb9f5e17751339403080f22260cd4715b68938de9f245407b66",
+  "inputs": 5
+ },
+ "storm-20": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 15,
+  "lost": 0,
+  "endTick": 2062,
+  "stateHash": "7fc836a0e5a0d3b3",
+  "geometryHash": "1107f547ba8ec2c16120d16182d13ad26c6ea54a9c96fdb386ef0a7d23777152",
+  "inputs": 2
+ },
+ "storm-21": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 15,
+  "lost": 0,
+  "endTick": 2300,
+  "stateHash": "9c14c17aa2fe9caa",
+  "geometryHash": "6f7c5760a48a5c85e700151240f555018ecd37c30f22e79109dfa4855c986df7",
+  "inputs": 4
+ },
+ "storm-22": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 20,
+  "lost": 0,
+  "endTick": 1606,
+  "stateHash": "1e97d89ba33aceac",
+  "geometryHash": "47f80f433f5087e2fc84ba1c4e5a6fb3a219bff587ad4729bd22004e5a70204e",
+  "inputs": 2
+ },
+ "storm-23": {
+  "phase": "won",
+  "reason": "only-blockers-left",
+  "saved": 19,
+  "lost": 0,
+  "endTick": 2078,
+  "stateHash": "d17c0a0423cce128",
+  "geometryHash": "ab67efda96e252ef020c6477fd1e527034d7f445341a446f29bea6e54d52b7f5",
+  "inputs": 2
+ },
+ "storm-24": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 12,
+  "lost": 0,
+  "endTick": 4167,
+  "stateHash": "0c9579bb928aaa6d",
+  "geometryHash": "a6e1be67d25b04ab425d45f9686ee73e07bdfa184855266f1a1bf434ed756b67",
+  "inputs": 9
+ },
+ "storm-25": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 15,
+  "lost": 0,
+  "endTick": 1327,
+  "stateHash": "0725720142d8d436",
+  "geometryHash": "c5fa710af95b4391e17b930022748cc64b1939031f68784760d3e0ef5c1316be",
+  "inputs": 5
+ },
+ "storm-26": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 29,
+  "lost": 1,
+  "endTick": 869,
+  "stateHash": "5c514da2353bb79f",
+  "geometryHash": "7ad2e2c9bae46198b76aec50b4f7b6440fd0fb0b8d087c0c711a254750c6844e",
+  "inputs": 3
+ },
+ "storm-27": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 13,
+  "lost": 1,
+  "endTick": 2368,
+  "stateHash": "8a6a8fbbcd661c82",
+  "geometryHash": "e13ba17c12af81358ed65a03848fd50b9188c47e283abdc99561589ebde3627c",
+  "inputs": 6
+ },
+ "storm-28": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 12,
+  "lost": 0,
+  "endTick": 3745,
+  "stateHash": "d68a2c92c4c0ba68",
+  "geometryHash": "568674bd5cee08014e1244256bd58f4d55e7d93c4157d2174dfbe3a8a78bbb7d",
+  "inputs": 5
+ },
+ "storm-29": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 16,
+  "lost": 0,
+  "endTick": 2859,
+  "stateHash": "56e81dc1ec134f27",
+  "geometryHash": "03d6e94e11bd9df51dd8424e7e25edfec4b5b39ce98d5fa497c179ab06dbe538",
+  "inputs": 5
+ },
+ "storm-30": {
+  "phase": "won",
+  "reason": "only-blockers-left",
+  "saved": 28,
+  "lost": 1,
+  "endTick": 3660,
+  "stateHash": "695fef1e28425882",
+  "geometryHash": "de90cb637af7ef78a4c190d0236da30c8a4eb5045e1bb9e3d6faeb8d464189a4",
+  "inputs": 10
+ },
+ "lesson-basher": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 5,
+  "lost": 0,
+  "endTick": 1140,
+  "stateHash": "0689a2989fc37124",
+  "geometryHash": "56d4a0a5925787fc6920fbb1b92be637f9553e23d43d341e9cfd211af67a6d0e",
+  "inputs": 1
+ },
+ "lesson-blocker": {
+  "phase": "won",
+  "reason": "only-blockers-left",
+  "saved": 5,
+  "lost": 0,
+  "endTick": 634,
+  "stateHash": "ea452e47ff2156a1",
+  "geometryHash": "8d6f79edd988d0cad08ea66dc580b4265b52976fc8d147b44bfa9992aa18623d",
+  "inputs": 1
+ },
+ "lesson-bomber": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 5,
+  "lost": 1,
+  "endTick": 1030,
+  "stateHash": "09f8d97d77221365",
+  "geometryHash": "53becdf26c870dd755286f8476180ef66f606d503542065ae37a1d68afe17fd4",
+  "inputs": 1
+ },
+ "lesson-builder": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 4,
+  "lost": 1,
+  "endTick": 612,
+  "stateHash": "2ff45a112419db35",
+  "geometryHash": "e0481111d59573d0f395c53bafc73f1ba9d90ea22d49e02118609088af5a0d43",
+  "inputs": 1
+ },
+ "lesson-climber": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 5,
+  "lost": 0,
+  "endTick": 684,
+  "stateHash": "497b94d005fb47bc",
+  "geometryHash": "f2b709b6b9b0f6b4e507cadebc37c8ca891807d9fa3590a60d18bcdf2ade6393",
+  "inputs": 5
+ },
+ "lesson-digger": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 5,
+  "lost": 0,
+  "endTick": 559,
+  "stateHash": "0510c122b6e0fbdf",
+  "geometryHash": "146254b0da16b964dafb803c7adff31707a93ecfb9e0a0bd52f5c74f4646306c",
+  "inputs": 1
+ },
+ "lesson-floater": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 5,
+  "lost": 0,
+  "endTick": 683,
+  "stateHash": "1e6a68b992376416",
+  "geometryHash": "fa08d1d62ac7d509e9022abf21901aa96c5eada152d663acd2d9e124046d9519",
+  "inputs": 5
+ },
+ "lesson-miner": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 5,
+  "lost": 0,
+  "endTick": 1037,
+  "stateHash": "a6111708dfc7a021",
+  "geometryHash": "e8c8cb5421d7bf2d5f363afbb05a235e807deb65cf18990b3f807cd4b1191275",
+  "inputs": 1
+ },
+ "menu-demo": {
+  "phase": "won",
+  "reason": "all-accounted",
+  "saved": 8,
+  "lost": 2,
+  "endTick": 1129,
+  "stateHash": "f6763c5d48fdb1ce",
+  "geometryHash": "790a68023964075b150ea552947dc60129f6840ab9d7464460bc3eda80a9c82b",
+  "inputs": 9
+ }
+}

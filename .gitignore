@@ -1,0 +1,15 @@
+# tool dependencies and build output
+tools/node_modules/
+build/
+out/
+*.zip
+
+# test output (the fixtures in tests/fixtures are tracked; these are regenerated on every run)
+tests/results/
+
+# editor / OS clutter
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log

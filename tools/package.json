@@ -1,0 +1,30 @@
+{
+  "name": "sheepfall-roku-tools",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Build, asset and verification pipeline for the SHEEPFALL Roku app.",
+  "type": "module",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "lint": "bsc --project ../bsconfig.json",
+    "build:levels": "tsx build-levels.mts",
+    "build:art": "tsx build-art.mts",
+    "build:audio": "tsx build-audio.mts",
+    "build:assets": "npm run build:levels && npm run build:art && npm run build:audio",
+    "test:engine": "node run-replays.mjs",
+    "test:paint": "node run-paint-check.mjs",
+    "test:smoke": "node run-smoke.mjs",
+    "test": "npm run test:engine && npm run test:paint && npm run test:smoke",
+    "package": "node package.mjs",
+    "check": "npm run lint && npm test && npm run package"
+  },
+  "devDependencies": {
+    "brighterscript": "^0.73.8",
+    "brs-node": "^2.6.2",
+    "canvas": "^4.0.0-rc3",
+    "tsx": "^4.23.15"
+  }
+}

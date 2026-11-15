@@ -1,0 +1,45 @@
+name: check
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: tools/package-lock.json
+
+      # node-canvas (used by the BrightScript simulator's 2D API) builds from source if no prebuilt binary fits
+      - name: System libraries for node-canvas
+        run: sudo apt-get update && sudo apt-get install -y libcairo2-dev libpango1.0-dev libjpeg-dev libgif-dev librsvg2-dev
+
+      - name: Install tools
+        working-directory: tools
+        run: npm ci
+
+      # lint, engine parity on all 129 stages, terrain paint check, app smoke test, package under 4 MB
+      - name: Check
+        working-directory: tools
+        run: npm run check
+
+      - name: Channel package
+        uses: actions/upload-artifact@v4
+        with:
+          name: sheepfall-roku
+          path: out/sheepfall-roku.zip
+
+      - name: Smoke test screenshots
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: smoke-screenshots
+          path: build/smoke
+          if-no-files-found: ignore
